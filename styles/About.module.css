@@ -1,0 +1,12 @@
+.title {
+  color: blue;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: conter;
+  align-items: center;
+}
+.title:hover{
+    text-decoration: underline;
+}

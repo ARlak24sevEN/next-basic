@@ -1,4 +1,6 @@
 export default function Footer() {
-    <footer> copyright 2023 | Arlak Abdullo</footer>
+    return (
+        <footer> copyright 2023 | Arlak Abdullo</footer>
+    )
 }
-sdf
+
