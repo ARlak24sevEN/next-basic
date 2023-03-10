@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container div{
+    width: 350px;
+    height: 350;
+    margin: 30px 15px;
+    background-color: #333;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+.title{
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}
+.price{
+    color: green;
+}
+
+.des{
+    color:orange
+}
+
+.container div:hover{
+  background: lightblue ;
+}
